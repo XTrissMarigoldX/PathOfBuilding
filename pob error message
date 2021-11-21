@@ -1,0 +1,18 @@
+SimpleGraphic v1.0 x86 Release, built May  3 2021
+
+Executing SimpleGraphic/SimpleGraphic.cfg
+Executing SimpleGraphic/SimpleGraphicAuto.cfg
+Warning: config file not found
+Executing C:\Users\??? ??????\Desktop\sofian\Path of Building Community\Launch.cfg
+Warning: config file not found
+
+--- UI Init ---
+Script: C:\Users\??? ??????\Desktop\sofian\Path of Building Community\Launch.lua
+Script working directory: C:\Users\??? ??????\Desktop\sofian\Path of Building Community
+Initialising Lua...
+Saving SimpleGraphic/SimpleGraphic.cfg
+Engine shutdown complete.
+
+--- SCRIPT ERROR ---
+Error loading 'C:\Users\??? ??????\Desktop\sofian\Path of Building Community\Launch.lua':
+cannot open C:\Users\??? ??????\Desktop\sofian\Path of Building Community\Launch.lua: Invalid argument
